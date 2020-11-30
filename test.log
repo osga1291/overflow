@@ -1,0 +1,2 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com:443
+DEBUG:urllib3.connectionpool:https://api.stackexchange.com:443 "GET /search/advanced?site=stackoverflow&key=xYbCypXZ%29OYjX7z%29oBlNrA%28%28&q=NameError%3A+name+%27np%27+is+not+defined%0A&tagged=%1B%1Bsdsdsd HTTP/1.1" 200 88
